@@ -20,4 +20,5 @@ Parses JSON response: Uses a JSON parser (Jackson) to extract and process releva
 # output of the task
 
 
-[task2 output.txt](https://github.com/user-attachments/files/18305649/task2.output.txt)
+![task2 output](https://github.com/user-attachments/assets/ee10dad1-58a5-45d8-ba37-a100a6e88e9c)
+
