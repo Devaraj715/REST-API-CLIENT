@@ -17,5 +17,7 @@ Mentor : NEELA SANTHOSH
 ###Key Features :Fetches weather data: Retrieves real-time weather information based on a city name.
 Parses JSON response: Uses a JSON parser (Jackson) to extract and process relevant data from the API response.
 
-output 
+# output of the task
+
+
 [task2 output.txt](https://github.com/user-attachments/files/18305628/task2.output.txt)
