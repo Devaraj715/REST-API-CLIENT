@@ -18,3 +18,4 @@ Mentor : NEELA SANTHOSH
 Parses JSON response: Uses a JSON parser (Jackson) to extract and process relevant data from the API response.
 
 output 
+[task2 output.txt](https://github.com/user-attachments/files/18305628/task2.output.txt)
